@@ -12,18 +12,18 @@ This is a Telegram bot designed to help you learn English words along with their
 
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/english-word-bot.git
+   `git clone https://github.com/yourusername/english-word-bot.git`
    
 2. Install the required Python packages:
 
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
    
 3.Set up your bot token (Fill the .env file in the project directory and add your Telegram bot token)
 
-   BOT_TOKEN=your_bot_token_here
+   `BOT_TOKEN=your_bot_token_here`
 
 4. Run the bot
-   python3 bot.py
+   `python3 bot.py`
    
 ## Usage
 
