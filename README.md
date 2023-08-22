@@ -10,11 +10,11 @@ This is a Telegram bot designed to help you learn English words along with their
 
 ## Getting Started
 
-1. Clone this repository:
+1.Clone this repository:
 
    `git clone https://github.com/yourusername/english-word-bot.git`
    
-2. Install the required Python packages:
+2.Install the required Python packages:
 
    `pip install -r requirements.txt`
    
@@ -22,7 +22,8 @@ This is a Telegram bot designed to help you learn English words along with their
 
    `BOT_TOKEN=your_bot_token_here`
 
-4. Run the bot
+4.Run the bot:
+
    `python3 bot.py`
    
 ## Usage
